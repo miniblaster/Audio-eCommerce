@@ -55,7 +55,4 @@ Users should be able to:
 - [Sandgrid](https://sendgrid.com/) - Email API.
 
 ## Author
-
-- LinkedIn - [https://www.linkedin.com/in/jose-digiweb/](https://www.linkedin.com/in/jose-digiweb/)
-- Frontend Mentor - [@JoseDigiweb](https://www.frontendmentor.io/profile/JoseDigiweb)
-- GitHub - [https://github.com/jose-digiweb](https://github.com/jose-digiweb)
+minionboss0626@gmail.com
